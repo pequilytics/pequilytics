@@ -4,9 +4,9 @@
 
 <br>
 
-- 🧬 Biomedical Scientist transitioning to tech 
-- 💻 Software Engineering • Computer Science
-- 📈 Data Enthusiast • Cloud • Machine Learning
+- 🧬 Biomedical scientist transitioning to tech 
+- 💻 Software engineering • Computer science
+- 📈 Data enthusiast • Cloud • Machine Learning
 - 🎮 Games • Anime • Code • Music
 
 <h3 align="left">
@@ -31,7 +31,5 @@
   <img src="assets/cinnamoroll_balloon.gif" alt="How to find me" height="25" style="vertical-align:middle;"/> How to find me:
 </h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/deborasiltavares/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  </p>
+  <a href="https://www.linkedin.com/in/deborasiltavares/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a><a href="https://x.com/pequilytics" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" height="30"/></a>
+</p>
